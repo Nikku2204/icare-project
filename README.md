@@ -8,6 +8,13 @@ iCare is a non-profit initiative committed to providing affordable prescription 
 
 This README provides an overview of our award-winning solution developed over six months for the SITAC 2025 competition. The detailed deliverables and technical documentation are available in the repository.
 
+## Prototype Demo
+
+[![iCare Prototype Demo](https://img.shields.io/badge/Watch_Demo-Google_Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/19rSPKrarHdrzMVOyM4DTH_KDliEgvn5z/view)
+
+*Click the button above to watch our prototype demonstration, showcasing the user journey and core features of the iCare platform.*
+
+
 ## The Challenge
 
 - Of the 7.95B world population, 4B wear eyeglasses
