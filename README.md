@@ -2,6 +2,8 @@
 
 > 🏆 **2nd Place Winner - SITAC 2025 Competition** 
 
+![iCare Prototype](iCare-prototype.mp4)
+
 ## Vision for Vision: Affordable Eyecare for 100M+ People
 
 iCare is a non-profit initiative committed to providing affordable prescription glasses to people with Uncorrected Refractive Error (URE), particularly targeting the 100M people and 48M children in India who cannot afford eyeglasses.
