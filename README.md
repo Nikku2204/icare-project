@@ -2,7 +2,6 @@
 
 > 🏆 **2nd Place Winner - SITAC 2025 Competition** 
 
-![iCare Prototype](iCare-prototype.mp4)
 
 ## Vision for Vision: Affordable Eyecare for 100M+ People
 
